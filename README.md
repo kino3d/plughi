@@ -2,7 +2,8 @@
 Prototype based on different concepts (mostly stolen from LuzBot printers,Prusa I3, personal POV), steel and alu i3 frames are too expensive.
 
 ####Specification
-__
+---
+
 * Cartesian axis
 * Size: 45x42x36cm
 * Print area: 220x220x200mm or 220x300x200mm
@@ -23,10 +24,11 @@ koghe aka kino
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c9imkmnhGjs" target="_blank">
 <img src="http://img.youtube.com/vi/c9imkmnhGjs/maxresdefault.jpg" alt="k3dpr(codename) personal printer" width="720" border="0" /></a>
 
-___
+---
 
+[kino3d.com]("http://kino3d.com") 
 
-[kino3d.com]("http://kino3d.com") graphics and multi media open source community
+graphics and multi media open source community
 
 
 
