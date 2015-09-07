@@ -2,5 +2,5 @@
 <br />
 <div align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c9imkmnhGjs" target="_blank">
-<img src="http://img.youtube.com/vi/c9imkmnhGjs/0.jpg" alt="k3dpr(codename) personal printer" width="560" height="315" border="0" /></a>
+<img src="http://img.youtube.com/vi/c9imkmnhGjs/0.jpg" alt="k3dpr(codename) personal printer" width="720" height="440" border="0" /></a>
 </div>
