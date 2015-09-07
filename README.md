@@ -13,7 +13,7 @@ __
  [ BOM (incomplete) ](https://docs.google.com/spreadsheets/d/132ylacQ8kRl86Y7bMYP7g0gJWVFWwMlT_N-luGjxloo/edit#gid=0 )
 
 C&C are welkome contact me on github
-aka kino
+aka kino 
 
 ### 3d View
 ![Alt text](./images/quadview.jpg?raw=true, "quadview")
