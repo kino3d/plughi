@@ -24,5 +24,10 @@ koghe aka kino
 <img src="http://img.youtube.com/vi/c9imkmnhGjs/maxresdefault.jpg" alt="k3dpr(codename) personal printer" width="720" border="0" /></a>
 
 ___
-[kino3d.com]("http://kino3d.com") graphics and multi media open source community
+
+
+[kino3d.com]("http://kino3d.com") 
+graphics and multi media open source community
+
+
 
