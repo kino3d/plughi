@@ -26,7 +26,7 @@ koghe aka kino
 
 ---
 
-kino3d.com graphics and multi media open source community
+http://kino3d.com graphics and multi media open source community
 
 
 
