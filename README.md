@@ -17,9 +17,9 @@ C&C are welcome please contact me on github
 koghe aka kino 
 
 ### 3d View
-![Alt text](./images/quadview.jpg?raw=true, "quadview")
+![Alt text](./images/3dview_new.jpg?raw=true, "quadview")
 ### Ortho
-![Alt text](./images/3dview.jpg?raw=true, "quadview")
+![Alt text](./images/quadview_new.jpg?raw=true, "quadview")
 ###First print test Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c9imkmnhGjs" target="_blank">
 <img src="http://img.youtube.com/vi/c9imkmnhGjs/maxresdefault.jpg" alt="k3dpr(codename) personal printer" width="720" border="0" /></a>
