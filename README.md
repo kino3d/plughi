@@ -10,7 +10,7 @@ Prototype based on different concepts (mostly stolen from LuzBot printers,Prusa 
 * Cheap rigid frame structure: alu 2020 profiles
 * Hotbed: 214x214mm MK3B Alu hotbed or 200X300mm MK3 PCB+glass 
 * [ BOM (almost complete) ](https://docs.google.com/spreadsheets/d/132ylacQ8kRl86Y7bMYP7g0gJWVFWwMlT_N-luGjxloo/edit#gid=0 )
-* [Wiki docs (todo)](/wiki)
+* [Wiki docs (todo)](../../wiki)
 
 C&C are welcome please contact me on github
 koghe aka kino 
