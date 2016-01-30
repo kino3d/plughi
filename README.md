@@ -1,5 +1,7 @@
-## Plughi - personal 3d printer 
-Prototype based on different concepts (mostly stolen from LuzBot printers,Prusa I3, personal POV), steel and alu i3 frames are too expensive.
+## Plughi - personal 3d printer
+Thanks to Alessio and his wonderful family for the name http://itink.it
+
+Plughi is a 3d printer prototype based on different concepts (mostly stolen from LuzBot printers,Prusa I3, personal POV), steel and alu i3 frames are too expensive.
 
 C&C are welcome please contact me on github koghe aka kino.
 
